@@ -1,2 +1,2 @@
 # mobile
-mobile_js
+andoid kotlin mobile_js
